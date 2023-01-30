@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "C C",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "nuggetmod:nugget"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nuggetmod:dowsing_rod"
+  }
+}

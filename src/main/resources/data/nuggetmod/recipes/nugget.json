@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nuggetmod:nugget_block"
+    }
+  ],
+  "result": {
+    "item": "nuggetmod:nugget",
+    "count": 9
+  }
+}

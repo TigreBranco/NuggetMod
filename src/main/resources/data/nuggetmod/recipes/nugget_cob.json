@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C#C",
+    "#C#",
+    "C#C"
+  ],
+  "key": {
+    "#": {
+      "item": "nuggetmod:special_nugget"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "nuggetmod:nugget_cob"
+  }
+}

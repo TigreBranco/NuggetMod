@@ -1,0 +1,31 @@
+{
+  "item.nuggetmod.nugget": "Nugget",
+  "item.nuggetmod.raw_nugget": "Nugget Cru",
+  "item.nuggetmod.farinha": "Farinha",
+  "item.nuggetmod.special_nugget": "Special Nugget",
+  "item.nuggetmod.dowsing_rod": "Dowsing Rod",
+  "item.nuggetmod.douradinho": "Douradinho",
+  "item.nuggetmod.coal_coke": "Coal Coke",
+
+  "item.nuggetmod.nugget_sword": "Xinada",
+
+  "item.nuggetmod.nugget_helmet": "Capacete di Nugget",
+  "item.nuggetmod.nugget_chestplate": "Peito di Nugget",
+  "item.nuggetmod.nugget_legging": "Calca di Nugget",
+  "item.nuggetmod.nugget_boots": "Bota di Nugget",
+
+
+
+  "block.nuggetmod.nugget_block": "Bloco di Nugget",
+  "block.nuggetmod.nugget_cob": "Nugget Cobblestone",
+  "block.nuggetmod.nugget_ore": "Nugget Ore",
+  "block.nuggetmod.speedy_block": "Speedy Block",
+
+  "itemGroup.nuggettab": "Nugget Tab",
+
+  "item.nuggetmod.dowsing_rod.no_valuables": "No Valuables Found!",
+
+  "tooltip.nuggetmod.dowsing_rod.tooltip.shift": "Right Click to find Valuables",
+  "tooltip.nuggetmod.dowsing_rod.tooltip": "Press §eSHIFT§r for more information",
+  "tooltip.nuggetmod.block.speedy_block": "I am speed!"
+}
